@@ -39,8 +39,9 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008107253</meta>
 		<meta property="se:subject">Horror</meta>
-		<dc:description id="description">A young woman seeks the reason behind her lover's outbursts of cruelty.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">&lt;p&gt;Stanley Weinbaum's &lt;i&gt;The Dark Other&lt;/i&gt; follows a young woman—Patricia Lane—and her lover, who is wrought with inexplicable outbursts of cruelty. The manuscript was written in the 1920s under the original title of &lt;i&gt;The Mad Brain&lt;/i&gt;, and was published posthumously in 1950, with edits by Forrest &lt;abbr class="name"&gt;J.&lt;/abbr&gt; Ackerman.&lt;/p&gt;</meta>
+		<dc:description id="description">A young woman seeks the reason behind her lover’s outbursts of cruelty.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">Stanley Weinbaum’s &lt;i&gt;The Dark Other&lt;/i&gt; follows a young woman—Patricia Lane—and her lover, who is wrought with inexplicable outbursts of cruelty. The manuscript was written in the 1920s under the original title of &lt;i&gt;The Mad Brain&lt;/i&gt;, and was published posthumously in 1950, with edits by Forrest J. Ackerman.</meta>
+		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/50561</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID5601d5e408008</dc:source>
