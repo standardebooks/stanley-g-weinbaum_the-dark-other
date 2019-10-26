@@ -42,6 +42,7 @@
 		<dc:description id="description">A young woman seeks the reason behind her lover’s outbursts of cruelty.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Stanley Weinbaum’s &lt;i&gt;The Dark Other&lt;/i&gt; was first written sometime in the 1920’s under the name &lt;i&gt;The Mad Brain&lt;/i&gt;. The manuscript went unpublished until 1950, where it was posthumously released with edits by Forrest J. Ackerman.&lt;/p&gt;
+			&lt;p&gt;Patricia Lane is a spirited young woman, in the midst of a passionate relationship with Nicholas Devine, a writer with a fascination with horror. When he starts to show bizzare personality shifts, she turns to her neighbor, a talented psychologist, to discover the source of these outbursts.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/50561</dc:source>
@@ -56,10 +57,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Stanley_G._Weinbaum</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81062505</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">John Constable</dc:contributor>
-		<meta property="file-as" refines="#artist">Constable, John</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Constable</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80007977</meta>
+		<dc:contributor id="artist">Mikhail Vrubel</dc:contributor>
+		<meta property="file-as" refines="#artist">Vrubel, Mikhail</meta>
+		<meta property="alternate-script" refines="#artist">Михаи́л Алекса́ндрович Вру́бель</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Mikhail_Vrubel</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80136311</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
