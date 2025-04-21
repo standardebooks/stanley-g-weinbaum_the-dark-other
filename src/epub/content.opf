@@ -46,7 +46,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/50561</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID5601d5e408008</dc:source>
-		<meta property="se:word-count">52333</meta>
+		<meta property="se:word-count">52319</meta>
 		<meta property="se:reading-ease.flesch">77.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Dark_Other</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/stanley-g-weinbaum_the-dark-other</meta>
