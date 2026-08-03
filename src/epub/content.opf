@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/stanley-g-weinbaum/the-dark-other</dc:identifier>
 		<dc:date>2019-10-26T23:10:18Z</dc:date>
@@ -40,11 +40,11 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008107253</meta>
 		<meta property="schema:genre">Horror</meta>
-		<dc:description id="description">A young woman seeks the reason behind her lover’s outbursts of cruelty.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young woman seeks the reason behind her lover’s outbursts of cruelty.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/stanley-g-weinbaum"&gt;Stanley Weinbaum’s&lt;/a&gt; &lt;i&gt;The Dark Other&lt;/i&gt; was first written sometime in the 1920s under the name &lt;i&gt;The Mad Brain&lt;/i&gt;. The manuscript went unpublished until 1950, where it was posthumously released with edits by Forrest &lt;abbr&gt;J.&lt;/abbr&gt; Ackerman.&lt;/p&gt;
 			&lt;p&gt;Patricia Lane is a spirited young woman, in the midst of a passionate relationship with Nicholas Devine, a writer with a fascination with horror. When he starts to show bizarre personality shifts, she turns to her neighbor, a talented psychologist, to discover the source of these outbursts.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/50561</dc:source>
 		<dc:source>https://www.pgdp.org/ols/tools/biblio.php?id=projectID5601d5e408008</dc:source>
