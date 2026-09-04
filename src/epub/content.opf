@@ -32,7 +32,7 @@
 		<meta property="file-as" refines="#title">Dark Other, The</meta>
 		<dc:subject id="subject-1">Horror tales</dc:subject>
 		<dc:subject id="subject-2">Psychological fiction</dc:subject>
-		<dc:subject id="subject-3">Multiple personality -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Multiple personality--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062084</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
