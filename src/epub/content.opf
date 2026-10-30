@@ -62,7 +62,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Mikhail Vrubel</dc:contributor>
 		<meta property="file-as" refines="#artist">Vrubel, Mikhail</meta>
-		<meta property="alternate-script" refines="#artist">Михаи́л Алекса́ндрович Вру́бель</meta>
+		<meta property="alternate-script" refines="#artist">Михаил Александрович Врубель</meta>
 		<link href="https://en.wikipedia.org/wiki/Mikhail_Vrubel" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80136311.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
